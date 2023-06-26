@@ -17,8 +17,13 @@
     *  To pass on large context data like our comments data, we need to use a package called Lama index
     *  We will need to create the context file which is in our case just a large text file combining all the text from the Naver 지식인 posts and the comments that we have retrieved.
     *  After done, we will hand on building chatbot with the workflow:
+    * 
        ** 1. Build an index of your document data with LlamaIndex
+      
        ** 2. Query the index with natural language
+      
        ** 3. LlamaIndex will retrieve the relevant parts and pass them to the GPT prompt
+      
        ** 4. Ask GPT with the relevant context and construct a response
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c08e27d4-274e-4d81-b026-0e3cbbe50510/Untitled.png)
+      
+  ![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c08e27d4-274e-4d81-b026-0e3cbbe50510/Untitled.png)
