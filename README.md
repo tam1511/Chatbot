@@ -26,4 +26,4 @@
       
        ** 4. Ask GPT with the relevant context and construct a response
       
-  ![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c08e27d4-274e-4d81-b026-0e3cbbe50510/Untitled.png)
+<img width="416" alt="Screenshot 2023-06-26 145115" src="https://github.com/tam1511/Chatbot/assets/99704273/5e1f2cac-f0fb-4536-9fcb-91dd0620185d">
