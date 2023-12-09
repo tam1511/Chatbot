@@ -1,6 +1,6 @@
 # Chatbot
 
-* With the recent release of the GPT 3.5 series API by OpenAI, we can do much more than just chit-chatting. One very productive use case for businesses and your personal use is QA (Question Answering). what if we want to build a little chatbot that only use your own custome data. build a ask me anything chatbot that answer all your question about datascience, ai, machine learning, deeplearning based on the content from naver 지식in webstie in this area
+* With the recent release of the GPT 3.5 series API by OpenAI, we can do much more than just chit-chatting. One very productive use case for businesses and your personal use is QA (Question Answering). what if we want to build a little chatbot that only use your own custome data. build an ask me anything chatbot that answer all your question about datascience, ai, machine learning, deeplearning based on the content from naver 지식in webstie in this area
 
 ### 1. Data Collect
 
